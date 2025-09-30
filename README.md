@@ -1,2 +1,0 @@
-# CodeClause
-Internship Tasks
